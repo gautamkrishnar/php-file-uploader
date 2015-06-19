@@ -5,7 +5,7 @@ $up_id = uniqid();
 
 <?php
 if ($_POST) {
-$folder = "uploaded_images/";
+$folder = "uploaded_files/";
 
 $redirect = "upload.php?success";
 
