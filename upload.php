@@ -50,7 +50,7 @@ $(document).ready(function() {
 </script>
 </head>
 <body>
-<h1>Restaurant Details </h1>
+<h1>File Upload</h1>
 <div>
   <?php if (isset($_GET['success'])) { ?>
   <span class="notice">Your data entered Sucessfully.</span>
